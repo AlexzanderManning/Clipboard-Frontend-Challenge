@@ -375,5 +375,10 @@ footer{
 
 /* ==========Attribution=========== */
 
-.attribution { font-size: .7rem; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution{ 
+  text-align: center;
+  font-size: .7rem;
+}
+.attribution a{
+  color: hsl(228, 45%, 44%);
+}
